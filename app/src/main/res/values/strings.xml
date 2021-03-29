@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="empty_allert">Title or descriptionc cant be empty</string>
+    <string name="saved">Your notes saved</string>
+</resources>
